@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Filters>
+  <Filter>
+    <Display>All Files</Display>
+    <FilterValue>*.*</FilterValue>
+  </Filter>
+  <Filter>
+    <Display>Music</Display>
+    <FilterValue>*.mp3, *.wav, *.ogg, *.mid</FilterValue>
+  </Filter>
+  <Filter>
+    <Display>Picture</Display>
+    <FilterValue>*.bmp, *.jpg, *.gif, *.tif, *.png, *.ico</FilterValue>
+  </Filter>
+  <Filter>
+    <Display>Video</Display>
+    <FilterValue>*.avi, *.mpg, *.mpeg, *.vob, *.wmv</FilterValue>
+  </Filter>
+  <Filter>
+    <Display>Documents</Display>
+    <FilterValue>*.txt, *.doc, *.xls</FilterValue>
+  </Filter>
+</Filters>
